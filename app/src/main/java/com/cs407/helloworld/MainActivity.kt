@@ -45,7 +45,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "$name‘s cs407 lab1",
+            text = "$name ‘s cs407 lab1",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
             fontStyle = FontStyle.Italic,
